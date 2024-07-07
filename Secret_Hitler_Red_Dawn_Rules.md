@@ -1,9 +1,10 @@
 # Secret Hitler Red Dawn Edition
 
-CAN YOU FIND AND STOP THE…
-![Alt text](pics/title.png)
+CAN YOU FIND AND STOP THE...  
+![Secret Hitler](./doc-pics/title.png)  
+![Red Dawn Edition](./doc-pics/sub-title.png)  
 
-Red Dawn Edition, Version 1.0.0
+Version 1.0.1  
 
 ## STORY
 The year is 1932. The place is pre -WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism and enticement of Communism. Watch out though—there are secret factions among you trying to undermine the republic, and one player is Secret Hitler.
@@ -12,7 +13,8 @@ The year is 1932. The place is pre -WWII Germany. In Secret Hitler, players are 
 At the start of the game, each player is secretly assigned to one of three factions: **Liberal**, **Fascist**, or **Communist**, with one player secretly taking on the role of Hitler. The Liberals hold the majority but are in the dark about everyone’s true identities. Fascists know who Hitler is from the beginning and will use secrecy and sabotage to achieve their aims. Communists, the smallest faction, must quickly gather information and convert others to their cause to succeed, leveraging influence to shift the balance of power.  
 
 Hitler plays for the Fascist team, and the Fascists know Hitler’s identity from the outset, but Hitler doesn’t know the Fascists and must work to figure them out.  
-
+</BR></BR>
+  
 **The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or converting Hitler to communism.**  
 
 Whenever a subversive (Fascist or Communist) party policy is enacted, the government becomes more powerful, and the **President is granted a single-use power** which must be used before the next round can begin. It doesn’t matter what team the President is on; in fact, even Liberal players might be tempted to enact a Fascist or Communist Policy to gain new powers. 
@@ -79,7 +81,7 @@ Last of all pick the single game board for each party, based on the number of pl
 | Communist Board   |       | 5(6-8) | 5(6-8) | 5(6-8) |        |        |        |        |
 
 Make sure you have the correct number of ordinary Fascists in addition to Hitler!  
- 
+
 ```
 WHY ARE THERE SECRET ROLE AND PARTY MEMBERSHIP CARDS?
 
@@ -89,31 +91,29 @@ Secret Hitler features an investigation mechanic that allows some players to fin
 Once each player has been dealt an envelope, all players should examine their Secret Role cards in secret. Randomly select the first Presidential Candidate and pass that player both the President and Chancellor placards.  
 
 **For games of 5-6 players**, give the following directions to all players:
-•	Everybody close your eyes.
-•	Fascist and Hitler, open your eyes and acknowledge each other. 
+- Everybody close your eyes.
+- Fascist and Hitler, open your eyes and acknowledge each other. 
 [Take a long pause]
-•	Everyone close your eyes.
-•	Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
+- Everyone close your eyes.
+- Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
 **For games of 7-10 players**, give the following directions to all players: 
-•	Everybody close your eyes and extend your hand into a fist in front of you.
-•	All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
-•	Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
-•	Fascists, take note of who has an extended thumb - that player is Hitler.
+- Everybody close your eyes and extend your hand into a fist in front of you.
+- All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
+- Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
+- Fascists, take note of who has an extended thumb - that player is Hitler.
 [Take a long pause]
-•	Everyone close your eyes and put your
-•	hands down.
-•	Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
+- Everyone close your eyes and put your hands down.
+- Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
 **For games of 11-12 players**, give the following directions to all players: 
-•	Everybody close your eyes and extend your hand into a fist in front of you.
-•	All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
-•	Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
-•	Fascists, take note of who has an extended thumb - that player is Hitler.
+- Everybody close your eyes and extend your hand into a fist in front of you.
+- All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
+- Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
+- Fascists, take note of who has an extended thumb - that player is Hitler.
 [Take a long pause]
-•	Everyone close your eyes and put your
-•	hands down.
-•	Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
+- Everyone close your eyes and put your hands down.
+- Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
 ## GAMEPLAY
 Secret Hitler is played in rounds. Each round has an Election to form a government, a Legislative Session to enact a new Policy, and an Executive Action to exercise governmental power.
@@ -152,7 +152,7 @@ Any time a new Policy tile is played face-up, the Election Tracker is reset, whe
 If a majority of players votes yes: 
 The Presidential Candidate and Chancellor Candidate become the new President and Chancellor, respectively. 
 
-•	If three or more Fascist Policies have been enacted already:
+- If three or more Fascist Policies have been enacted already:
 
 Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
 
@@ -186,8 +186,8 @@ The President draws three Policy tiles, discards one, and passes the remaining t
 to the left as usual. If the President does not consent, the Chancellor must enact a Policy
 as normal.
 
-Each use of the Veto Power represents an inactive government and advances the Election Tracker by one.
- 
+Each use of the Veto Power represents an inactive government and advances the Election Tracker by one.  
+
 ## STRATEGY NOTES
 1. Everyone should claim to be a Liberal. Since the Liberal team has a voting majority, it can easily shut out any player claiming to be a Fascist. As a Fascist, there is no advantage to outing yourself to the majority. Additionally, Liberals should usually tell the truth. Liberals are trying to figure out the game like a puzzle, so lying can put their team at a significant disadvantage.
 
@@ -228,18 +228,18 @@ The President executes one player at the table by saying “I formally execute [
 1.	Bugging
 The communists look at another player’s party membership card. When this power is activated, give the following instructions:
 
-•	Everyone take out your Party membership card and place it face down in front of you.
-•	Everyone close your eyes
-•	Communists open your eyes
-•	You must look at one players party membership card together.
+- Everyone take out your Party membership card and place it face down in front of you.
+- Everyone close your eyes
+- Communists open your eyes
+- You must look at one players party membership card together.
 [Take a long pause]
-•	Communists close your eyes
-•	Everyone reach out and move your card around slightly
-•	Everyone open your eyes.
+- Communists close your eyes
+- Everyone reach out and move your card around slightly
+- Everyone open your eyes.
 
 
 ## CREDITS & LICENSE
-See LICENCE in GitHub: 
+See LICENSE in GitHub: 
 https://github.com/iFreeon/secret-hitler-red-dawn-expansion/blob/main/LICENSE
 
 
