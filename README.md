@@ -1,7 +1,7 @@
 # Secret Hitler Red Dawn Edition
 Step into an era of heightened political tension and espionage with the Red Dawn Edition for the acclaimed social deduction game, Secret Hitler.  
 
-This is a standalone game that tightens up elements of the expansions and adds a few new twists.  The goal is to make SHRDE accessible to veterans and new players alike. and to consume. See the new rules here: https://github.com/iFreeon/secret-hitler-red-dawn-edition/blob/main/Secret_Hitler_Red_Dawn_Rules.md 
+This is a standalone game that tightens up elements of the expansions and adds a few new twists.  The goal is to make SHRDE more accessible to veterans and new players alike. This version has not been released yet, but you can see work in progress rules here: [SHRDE Rules](https://github.com/iFreeon/secret-hitler-red-dawn-edition/blob/main/Secret_Hitler_Red_Dawn_Rules.md)
 
 ## Design Principals
 1. Game setting is 1933 where liberal parties are trying to hold together a fragile republic. Historically this is one year before the establishment of the Third Reich. 
