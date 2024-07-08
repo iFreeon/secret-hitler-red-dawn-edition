@@ -1,7 +1,7 @@
 # Secret Hitler Red Dawn Edition
 Step into an era of heightened political tension and espionage with the Red Dawn Edition for the acclaimed social deduction game, Secret Hitler.  
 
-This is a standalone game that tightens up some of the expansion game-play and puts it together in a package that is easier consumer for new players to consume.  
+This is a standalone game that tightens up some of the expansion game-play and puts it together in a package that is easier consumer for new players to consume. See the new rules here: https://github.com/iFreeon/secret-hitler-red-dawn-edition/blob/main/Secret_Hitler_Red_Dawn_Rules.md 
 
 ## Design Principals
 1. Make the docs easy to update and deploy.

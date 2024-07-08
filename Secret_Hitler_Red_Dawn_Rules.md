@@ -235,10 +235,13 @@ The communists look at another player’s party membership card. When this power
 See LICENSE in GitHub: 
 https://github.com/iFreeon/secret-hitler-red-dawn-expansion/blob/main/LICENSE
 
-## MISC / TODO
-WIP - Not sure where to put these items yet.
+## TODO
+WIP items, that need some love.
 1. Explain Hitler Zone
 2. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that and assume the person is converted.
 3. Character Assassination - Win condition for Communists when Hitler is selected.  Explain how this works and how it pull characters into the media spotlight and forces them to leave the shadows of Fascism or Communism and instantly turn into a liberal.
 4. Work on player 10-12 script.
+5. Update presidential powers.
+6. Update game contents.
+7. Work on policy mix.
 
