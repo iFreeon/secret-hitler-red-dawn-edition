@@ -111,7 +111,7 @@ Once each player has been dealt an envelope, all players should examine their Se
 1. Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
 ## GAMEPLAY
-Secret Hitler is played in rounds. Each round has an Election to form a government, a Legislative Session to enact a new Policy, and an Executive Action to exercise governmental power.
+Secret Hitler is played in rounds. Each round has an Election to form a government, a Legislative Session to enact a new Policy, and Executive Action(s) to exercise governmental power.
 
 ### ELECTION 
 1.	**Pass the Presidential Candidacy**
@@ -143,7 +143,7 @@ Once the Presidential Candidate has chosen an eligible Chancellor Candidate, pla
 
         > Any time a new Policy tile is played face-up, the Election Tracker is reset, whether it was enacted by an elected government or enacted by the frustrated populace.
 
-    - **If three or more Fascist Policies have been enacted already**: This is referd to as tne Hitler Zone. Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
+    - **If three or more Fascist Policies have been enacted already**: This is referd to as the Hitler Zone. Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
 
 4. If the election suceeded, proceed as usual to the Legislative Session.
 
