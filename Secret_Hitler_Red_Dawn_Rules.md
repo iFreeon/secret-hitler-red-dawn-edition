@@ -10,12 +10,12 @@ Version 1.0.1
 The year is 1932. The place is pre -WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism and enticement of Communism. Watch out though—there are secret factions among you trying to undermine the republic, and one player is Secret Hitler.
 
 ## GAME OVERVIEW
-At the start of the game, each player is secretly assigned to one of three factions: **Liberal**, **Fascist**, or **Communist**, with one player secretly taking on the role of Hitler. The Liberals hold the majority but are in the dark about everyone’s true identities. Fascists know who Hitler is from the beginning and will use secrecy and sabotage to achieve their aims. Communists, the smallest faction, must quickly gather information and convert others to their cause to succeed, leveraging influence to shift the balance of power.  
+At the start of a game of Secret Hitler Red Dawn Edition (SHRDE), each player is secretly assigned to one of three factions: **Liberal**, **Fascist**, or **Communist**, with one player secretly taking on the role of Hitler. The Liberals hold the majority but are in the dark about everyone’s true identities. Fascists know who Hitler is from the beginning and will use secrecy and sabotage to achieve their aims. Communists, the smallest faction, must quickly gather information and convert others to their cause to succeed, leveraging influence to shift the balance of power.  
 
 Hitler plays for the Fascist team, and the Fascists know Hitler’s identity from the outset, but Hitler doesn’t know the Fascists and must work to figure them out.  
-</BR></BR>
+</BR>
   
-**The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or smearing hitlers name that he drops out if politics.**  
+**The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or smearing Hitlers's name to the point where he drops out of politics.**  
 
 Whenever a subversive (Fascist or Communist) party policy is enacted, the government becomes more powerful, and the **President is granted a single-use power** which must be used before the next round can begin. It doesn’t matter what team the President is on; in fact, even Liberal players might be tempted to enact a Fascist or Communist Policy to gain new powers. 
 
@@ -143,7 +143,7 @@ Once the Presidential Candidate has chosen an eligible Chancellor Candidate, pla
 
         > Any time a new Policy tile is played face-up, the Election Tracker is reset, whether it was enacted by an elected government or enacted by the frustrated populace.
 
-    - **If three or more Fascist Policies have been enacted already**: Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
+    - **If three or more Fascist Policies have been enacted already**: This is referd to as tne Hitler Zone. Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
 
 4. If the election suceeded, proceed as usual to the Legislative Session.
 
@@ -234,17 +234,24 @@ Rules that can be added to spice things up. Play a few rounds of SHRDE to get th
 ### Article 48 Powers
 New one time use powers granted to the chancellor during a legislative session. Powers will be written on Fashist or Communist policy cards and activated as these policies are placed on their respective game board. 
 
-1, Investigate party loyalty
-2. Convert player to Communism 
+1, Communist. Investigate party loyalty. 
+2. Communist. Convert player to Communism. 
+3. Communist. Resurect deceased player as a communist. 
 
-> add tanke tfat shows recomended mix of policy cards. 
+> add table that shows recomended mix of policy cards. 
 
 ### Secret Roles
 The core gameplay of SHRDE only has one role, Secret Hitler. 
 
-1. Anarchist - if this role is assasinated they pick one other player to permanently  leave the game with them. 
+1. Hitler - Included in every game of SHRDE.  If assasinated, liberals win. if voted in as chancellor while in Hitler Zone, Faschists win. If the succesful target of a smear campaign, Communists win. Cannont be converted to Communism. 
 
-> add rable that shows recomended mix of role cards. 
+1. Anarchist - if this role is assasinated they pick one other player to assasinate before leaving the game. 
+
+2. Staunch Liberal. cannot be converted to Communisim. 
+
+3. Tough Bastar - If assassinated will be excluded from two Election cycles, returning at the beginig of the third Election.
+
+> add table that shows recomended mix of role cards. 
 
 
 
@@ -254,8 +261,7 @@ https://github.com/iFreeon/secret-hitler-red-dawn-expansion/blob/main/LICENSE
 
 ## TODO
 WIP items, that need some love.
-1. Explain Hitler Zone
-2. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that and assume the person is converted.
+2. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that and 
 3. Character Assassination - Win condition for Communists when Hitler is selected.  Explain how this works and how it pull characters into the media spotlight and forces them to leave the shadows of Fascism or Communism and instantly turn into a liberal.
 4. Work on player 10-12 script.
 5. Update presidential powers.
