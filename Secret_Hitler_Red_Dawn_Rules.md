@@ -15,7 +15,7 @@ At the start of the game, each player is secretly assigned to one of three facti
 Hitler plays for the Fascist team, and the Fascists know Hitler’s identity from the outset, but Hitler doesn’t know the Fascists and must work to figure them out.  
 </BR></BR>
   
-**The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or converting Hitler to communism.**  
+**The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or smearing hitlers name that he drops out if politics.**  
 
 Whenever a subversive (Fascist or Communist) party policy is enacted, the government becomes more powerful, and the **President is granted a single-use power** which must be used before the next round can begin. It doesn’t matter what team the President is on; in fact, even Liberal players might be tempted to enact a Fascist or Communist Policy to gain new powers. 
 
@@ -35,7 +35,7 @@ OR
 Players on the ***Communist team win*** if either:  
 - All Communist Policies are enacted.  
 OR  
-- Hitler was the target of a character assassination. Scandalous!
+- Hitler was the target of a smear campaign. Scandalous!
 
 ## GAME CONTENTS
 - 17 Liberal Policy tiles
@@ -60,8 +60,10 @@ Liberal Secret Role cards must always be packed together with a Liberal Party Me
 
 Create single deck of policy cards, this will be a mix of Liberal, Fascist, and Communists (if applicable) policies based on the number of players in the game.  See table below. Shuffle deck and place that deck face down in the middle of the table.  
 
-Last of all pick the single game board for each party, based on the number of players in the game per table below.  
-   
+Last of all pick a single game board for each party, based on the number of players in the game per table below.  
+
+### GAME SETUP TABLE
+
 | **# Players**       | 5     | 6      | 7      | 8      | 9      | 10     | 11     | 12     |
 |-------------------  |------ |--------|--------|--------|--------|--------|--------|--------|
 | Liberal Membership  | 3     | 3      | 4      | 4      | 4      | 5      | 5      | 5      |
@@ -83,7 +85,6 @@ Make sure you have the correct number of ordinary Fascists in addition to Hitler
 > Secret Hitler features an investigation mechanic that allows some players to find out what team other players are on, and this mechanic only works if  Hitler’s special role is not revealed. To prevent that from happening, every player has both a Secret Role card and a Party Membership card. Hitler’s Party Membership card shows a Fascist party loyalty, but gives no hint about a special role. Liberals who uncover Fascists must work out for themselves whether they’ve found an ordinary Fascist or their leader.
 
 Once each player has been dealt an envelope, all players should examine their Secret Role cards in secret. Randomly select the first Presidential Candidate and pass that player both the President and Chancellor placards.  
-
 **For games of 5-7 players**, give the following directions to all players:
 1. Everybody close your eyes.
 1. Fascist and Hitler, open your eyes and acknowledge each other.   
@@ -113,7 +114,6 @@ Once each player has been dealt an envelope, all players should examine their Se
 Secret Hitler is played in rounds. Each round has an Election to form a government, a Legislative Session to enact a new Policy, and an Executive Action to exercise governmental power.
 
 ### ELECTION 
-
 1.	**Pass the Presidential Candidacy**
 At the beginning of a new round, the President placard moves clockwise to the next player, who is the new Presidential Candidate.
 
@@ -132,53 +132,47 @@ The Presidential Candidate chooses a Chancellor Candidate by passing the Chancel
     >
     >- There are some other rules that affect eligibility in specific ways: the Veto Power and the Election Tracker. You don’t need to worry about those yet, and we’ll talk about each one in its relevant section.
 
-
 3.	**Vote on the government**
 Once the Presidential Candidate has chosen an eligible Chancellor Candidate, players may discuss the proposed government until everyone is ready to vote. Every player, including the Candidates, votes on the proposed government. Once everyone is ready to vote, reveal your Ballot cards simultaneously so that everyone’s vote is public.
 
     - **If a majority of players votes YES**: The Presidential Candidate and Chancellor Candidate become the new President and Chancellor, respectively. 
 
-    - **If a majority of players votes NO, or it is a TIE**:
-    The vote fails. The Presidential Candidate misses this chance to be elected, and the President placard moves clockwise to the next player. The Election Tracker is advanced by one Election.  
+    - **If a majority of players votes NO, or it is a TIE**: The vote fails. The Presidential Candidate misses this chance to be elected. The Electition Tracker is advanced by one Election.  The election process starts again from the begining, starting with moving the President placard clockwise to the next player. 
 
     - **Election Tracker**: If the group rejects three governments in a row, the country is thrown into chaos. Immediately reveal the Policy on top of the Policy deck and enact it. Any power granted by this Policy is ignored, but the Election Tracker resets, and existing term-limits are forgotten. All players become eligible to hold the office of Chancellor for the next Election. If there are fewer than three tiles remaining in the Policy deck at this point, shuffle them with the Discard pile to create a new Policy deck.
 
         > Any time a new Policy tile is played face-up, the Election Tracker is reset, whether it was enacted by an elected government or enacted by the frustrated populace.
 
-
     - **If three or more Fascist Policies have been enacted already**: Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
 
-    - Proceed as usual to the Legislative Session.  
+4. If the election suceeded, proceed as usual to the Legislative Session.
 
 ### LEGISLATIVE SESSION
-During the Legislative Session, the President and Chancellor work together to enact a new Policy in secret. The President draws the top three tiles from the Policy deck, looks at them in secret, and discards one tile face down into the Discard pile. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track.
+During the Legislative Session, the President and Chancellor work together to enact a new Policy in secret. 
 
-Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy.  
+1. The President draws the top three tiles from the Policy deck, looks at them in secret, and discards one tile face down into the Discard pile. 
 
-Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
+2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track.
 
-**Discarded Policy tiles should never be revealed to the group. Players must rely on the word of the President and Chancellor, who are free to lie.**  
+> Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy. Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
 
-> ABOUT LYING: Often, some players learn things that the rest of the players don’t know, like when the President and Chancellor get to see Policy tiles, or when a President uses the Investigate power to see someone’s Party Membership card. You can always lie about hidden knowledge in Secret Hitler. The only time players MUST tell the truth is in game-ending, Hitler-related scenarios: a player who is Hitler must say so if assassinated or if elected Chancellor after three Fascist Policies have been enacted.
-If there are fewer than three tiles remaining in the Policy deck at the end of a Legislative Session, shuffle them with the Discard pile to 
+3. Discarded Policy tiles should never be revealed to the group. Players must rely on the word of the President and Chancellor, who are free to lie.
 
-create a new Policy deck. Unused Policy tiles should never be revealed, and they should not be simply placed on top of the new Policy deck.
+> ABOUT LYING: Often, some players learn things that the rest of the players don’t know, like when the President and Chancellor get to see Policy tiles, or when a President uses the Investigate power to see someone’s Party Membership card. You can always lie about hidden knowledge in Secret Hitler. The only time players MUST tell the truth is in game-ending, Hitler-related scenarios: a player who is Hitler must say so if assassinated or if elected Chancellor after three Fascist Policies have been enacted.  
 
-If the government enacted a Fascist Policy that covered up a Presidential Power, the sitting President gets to use that power. Proceed to the Executive Action.
+4. If there are fewer than three tiles remaining in the Policy deck at the end of a Legislative Session, shuffle them with the Discard pile to create a new Policy deck. Unused Policy tiles should never be revealed, and they should not be simply placed on top of the new Policy deck.
 
-If the government enacted a Liberal Policy or a Fascist Policy that grants no Presidential Power, begin a new round with a new Election.
-EXECUTIVE ACTION
+5. If the government enacted a Fascist or Communist Policy that covered up a Presidential Power or has text on the policy  for the Chancellor. Proceed to the Executive Action.
 
-If the newly-enacted Fascist Policy grants a Presidential Power, the President must use it 
-before the next round can begin. Before using a power, the President is free to discuss the issue with other players, but ultimately the President gets to decide how and when the power is used. Gameplay cannot continue until the President uses the power. Presidential Powers are used only once; they don’t stack or roll over to future turns.
-VETO POWER
+6. After a policy has been played a s Executive Actions are complete, begin a new round with a new Election.
 
+### EXECUTIVE ACTION
+If the newly-enacted Fascist Policy grants a Presidential Power, the President must use it before the next round can begin. Before using a power, the President is free to discuss the issue with other players, but ultimately the President gets to decide how and when the power is used. Gameplay cannot continue until the President uses the power. Presidential Powers are used only once; they don’t stack or roll over to future turns.
+
+### VETO POWER
 The Veto Power is a special rule that comes into effect after five Fascist Policies have been enacted. For all Legislative Sessions after the fifth Fascist Policy is enacted, the Executive branch gains a permanent new ability to discard all three Policy tiles if both the Chancellor and President agree.
 
-The President draws three Policy tiles, discards one, and passes the remaining two to the Chancellor as usual. Then Chancellor may, instead of enacting either Policy, say “I wish to veto this agenda.” If the President consents by saying, “I agree to the veto,” both Policies are discarded and the President placard passes 
-
-to the left as usual. If the President does not consent, the Chancellor must enact a Policy
-as normal.
+The President draws three Policy tiles, discards one, and passes the remaining two to the Chancellor as usual. Then Chancellor may, instead of enacting either Policy, say “I wish to veto this agenda.” If the President consents by saying, “I agree to the veto,” both Policies are discarded and the President placard passes to the left as usual. If the President does not consent, the Chancellor must enact a Policy as normal.
 
 Each use of the Veto Power represents an inactive government and advances the Election Tracker by one.  
 
@@ -230,6 +224,29 @@ The communists look at another player’s party membership card. When this power
     > 1. Communists close your eyes
     > 1. Everyone reach out and move your card around slightly
     > 1. Everyone open your eyes.
+
+2. **Smear Campaign**
+The President targets one player by saying “I formally smear [player name].” If that player is Hitler, the game ends in a Communist victory. If the player is not Hitler, they must sit out the next two election cycles. The person may talk and interact with those at the table but connot vote, or hold the office of president or chansellor, if the player smeared was supposed to be president, they are skipped. 
+
+## Optional Rules
+Rules that can be added to spice things up. Play a few rounds of SHRDE to get the core gameplay before using optional rules. 
+
+### Article 48 Powers
+New one time use powers granted to the chancellor during a legislative session. Powers will be written on Fashist or Communist policy cards and activated as these policies are placed on their respective game board. 
+
+1, Investigate party loyalty
+2. Convert player to Communism 
+
+> add tanke tfat shows recomended mix of policy cards. 
+
+### Secret Roles
+The core gameplay of SHRDE only has one role, Secret Hitler. 
+
+1. Anarchist - if this role is assasinated they pick one other player to permanently  leave the game with them. 
+
+> add rable that shows recomended mix of role cards. 
+
+
 
 ## CREDITS & LICENSE
 See LICENSE in GitHub: 
