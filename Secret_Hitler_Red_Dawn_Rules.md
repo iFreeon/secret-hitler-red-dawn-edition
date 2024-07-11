@@ -85,6 +85,7 @@ Make sure you have the correct number of ordinary Fascists in addition to Hitler
 > Secret Hitler features an investigation mechanic that allows some players to find out what team other players are on, and this mechanic only works if  Hitler’s special role is not revealed. To prevent that from happening, every player has both a Secret Role card and a Party Membership card. Hitler’s Party Membership card shows a Fascist party loyalty, but gives no hint about a special role. Liberals who uncover Fascists must work out for themselves whether they’ve found an ordinary Fascist or their leader.
 
 Once each player has been dealt an envelope, all players should examine their Secret Role cards in secret. Randomly select the first Presidential Candidate and pass that player both the President and Chancellor placards.  
+
 **For games of 5-7 players**, give the following directions to all players:
 1. Everybody close your eyes.
 1. Fascist and Hitler, open your eyes and acknowledge each other.   
@@ -152,7 +153,7 @@ During the Legislative Session, the President and Chancellor work together to en
 
 1. The President draws the top three tiles from the Policy deck, looks at them in secret, and discards one tile face down into the Discard pile. 
 
-2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track.
+2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track. Or if the Chansollor does not like the policy cards, and five Fashist polices have been played, may excercies Veto Power (see rules below).
 
 > Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy. Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
 
@@ -164,7 +165,7 @@ During the Legislative Session, the President and Chancellor work together to en
 
 5. If the government enacted a Fascist or Communist Policy that covered up a Presidential Power or has text on the policy  for the Chancellor. Proceed to the Executive Action.
 
-6. After a policy has been played a s Executive Actions are complete, begin a new round with a new Election.
+6. After a policy has been played and Executive Actions are complete, the round it over.  Begin a new round by initiating an Election.
 
 ### EXECUTIVE ACTION
 If the newly-enacted Fascist Policy grants a Presidential Power, the President must use it before the next round can begin. Before using a power, the President is free to discuss the issue with other players, but ultimately the President gets to decide how and when the power is used. Gameplay cannot continue until the President uses the power. Presidential Powers are used only once; they don’t stack or roll over to future turns.
@@ -260,11 +261,8 @@ See LICENSE in GitHub:
 https://github.com/iFreeon/secret-hitler-red-dawn-expansion/blob/main/LICENSE
 
 ## TODO
-WIP items, that need some love.
-2. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that and 
-3. Character Assassination - Win condition for Communists when Hitler is selected.  Explain how this works and how it pull characters into the media spotlight and forces them to leave the shadows of Fascism or Communism and instantly turn into a liberal.
-4. Work on player 10-12 script.
-5. Update presidential powers.
-6. Update game contents.
-7. Work on policy mix.
+WIP items, that need some love.  
+1. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that.
+2. Update presidential powers.
+3. Work on policy mix.
 
