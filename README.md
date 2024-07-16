@@ -5,14 +5,14 @@ This is a standalone game that tightens up elements of the expansions and adds a
 
 ## Design Principals
 1. Game setting is 1933 where liberal parties are trying to hold together a fragile republic. Historically this is one year before the establishment of the Third Reich. 
-2. Love the 3rd faction idea. This version will use Communists. 
-3. Make the docs easy to update and deploy.
+2. Re-work rules, to make the 3rd party (Communists) feel like a more natural addition to the game.
+3. Win conditions must be unique and distinct to each party.  No shared win conditions.   
 4. 12 to 14 players seems like the sweet spot for max players.
-5. Pull inspiration from original, socialist and XL expansions but treat this as a stand alone game. Explain the player motivation, win conditions, setup (board, player, policy), flow, and optional items.  
-6. Game balancing should focus on: game boards, party loyalty, policy cards, etc.
-7. Win conditions must be unique and distinct to each faction.  No shared win conditions.   
-8. Secret roles should advance or hinder a faction. Avoid roles with personal win conditions as this takes away from group dynamic. 
-9. As player counts increase, presidential should increase. lots of goodness to go around.  
+5. Make the docs easy to update and deploy.
+6. Pull inspiration from original, socialist and XL expansions but treat this as a stand alone game. Explain the player motivation, win conditions, setup (board, player, policy), flow, and optional items.  
+7. Secret roles should advance or hinder a faction. Avoid roles with personal win conditions as this takes away from group dynamic. 
+8. As player counts increase, presidential should increase. lots of goodness to go around.  
+9. Game balancing should focus on good gameplay and less on mechanics that extend the game.
 
 
 ## Convert Docs to PDF
@@ -29,3 +29,6 @@ choco install rsvg-convert python miktex
 ```
 pandoc Secret_Hitler_Red_Dawn_Rules.md -o Secret_Hitler_Red_Dawn_Rules.pdf --variable geometry:margin=0.5in
 ```
+
+## Other Tools
+- Investigate this for card layout: https://www.dextrous.com.au/
