@@ -200,7 +200,7 @@ This section explains in more details the presidential powers granted by passing
 1. <img src="./doc-pics/investigate-loyalty.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Investigate Loyalty**   
 The President chooses a player to investigate. Investigated players should hand their Party Membership card (not Secret Role card!) to the President, who checks the player’s loyalty in secret and then returns the card to the player. The President may share (or lie about!) the results of their investigation at their discretion. No player may be investigated twice in the same game.
 
-1. <img src="./doc-pics/special-election.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Call Special Election**   
+1. <img src="./doc-pics/special-election.png" align="middle" width="40"> **Call Special Election**   
 The President chooses any other player at the table to be the next Presidential Candidate by passing that player the President placard. Any player can become President—even players that are term-limited. The new President nominates an eligible player as Chancellor Candidate and the Election proceeds as usual.
 
     - A Special Election does not skip any players. After a Special Election, the President placard returns to the left of the President who enacted the Special Election. 
