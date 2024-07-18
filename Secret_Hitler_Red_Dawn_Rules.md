@@ -10,9 +10,9 @@ Version 1.0.1
 The year is 1932. The place is pre -WWII Germany. In Secret Hitler, players are German politicians attempting to hold a fragile Liberal government together and stem the rising tide of Fascism and enticement of Communism. Watch out though—there are secret factions among you trying to undermine the republic, and one player is Secret Hitler.
 
 ## GAME OVERVIEW
-At the start of a game of Secret Hitler Red Dawn Edition (SHRDE), each player is secretly assigned to one of three factions: **Liberal**, **Fascist**, or **Communist**, with one player secretly taking on the role of Hitler. The Liberals hold the majority but are in the dark about everyone’s true identities. Fascists know who Hitler is from the beginning and will use secrecy and sabotage to achieve their aims. Communists, the smallest faction, must quickly gather information and convert others to their cause to succeed, leveraging influence to shift the balance of power.  
+At the start of a game of Secret Hitler Red Dawn Edition (SHRDE), each player is secretly assigned to one of three factions: **Liberal**, **Fascist**, or **Communist**, with one player secretly taking on the role of Hitler. The Liberals hold the majority but are in the dark about everyone’s true identities. Fascists know who Hitler is from the beginning and will use secrecy and sabotage to achieve their aims. Communists, the smallest faction, must quickly gather information and convert others to their cause to succeed. Players must use their powers of deduction and party abilities at their disposal to shift the balance of power to win the game.
 
-Hitler plays for the Fascist team, and the Fascists know Hitler’s identity from the outset, but Hitler doesn’t know the Fascists and must work to figure them out.  
+Hitler plays for the Fascist team, and the Fascists know Hitler’s identity from the outset, but Hitler doesn’t always know the Fascists and must work to figure them out.  
 </BR>
   
 **The Liberals win by enacting all Liberal Policies or killing Hitler.  The Fascists win by enacting all the Fascist Policies, or if Hitler is elected Chancellor after Fascist policies enter the “Hitler Zone”. Communists win by enacting all Communist Policies or smearing Hitlers's name to the point where he drops out of politics.**  
@@ -38,18 +38,18 @@ OR
 - Hitler was the target of a smear campaign. Scandalous!
 
 ## GAME CONTENTS
-- 17 Liberal Policy tiles
-- ? Fascist Policy tiles
-- ? Communist Policy tiles
+- 11 Liberal Policy tiles
+- 6 Fascist Policy tiles
+- 6 Communist Policy tiles
 - 12 Party Membership cards
-- ? Secret Roles Cards
+- 12 Secret Roles Cards
 - 12 Card envelopes
 - 12 Ja! Ballot cards
 - 12 Nein Ballot cards
 - 1 Election Tracker marker
-- 2 Liberal boards
+- 1 Liberal boards
 - 3 Fascist boards
-- 4 Communist boards
+- 3 Communist boards
 - 1 President placard
 - 1 Chancellor placard
 
@@ -66,16 +66,19 @@ Last of all pick a single game board for each party, based on the number of play
 
 | **# Players**       | 5     | 6      | 7      | 8      | 9      | 10     | 11     | 12     |
 |-------------------  |------ |--------|--------|--------|--------|--------|--------|--------|
-| Liberal Membership  | 3     | 3      | 4      | 4      | 4      | 5      | 5      | 5      |
-| Fascist Membership  | 1+H   | 1+H    | 1+H    | 2+H    | 2+H    | 2+H    | 3+H    | 3+H    |
-| Communist Membership|  0    | 1      | 1      | 1      | 2      | 2      | 2      | 3      |
+| Liberal Party       | 3     | 3      | 4      | 4      | 4      | 5      | 5      | 5      |
+| Fascist Party       | 2     | 2      | 2      | 3      | 3      | 3      | 4      | 4      |
+| Communist Party     | 0     | 1      | 1      | 1      | 2      | 2      | 2      | 3      |
+| **Secret Roles**    |       |        |        |        |        |        |        |        |
+| Civilian            | 4     | 5      | 6      | 7      | 8      | 9      | 10     | 11     |
+| Hitler              | 1     | 1      | 1      | 1      | 1      | 1      | 1      | 1      |
 | **Policy Cards**    |       |        |        |        |        |        |        |        |
-| Liberal Policies    | 11    | 5      |        | 6      |        |        |        |        |
-| Fascist Policies    | 6     | 10     |        | 9      |        |        |        |        |
-| Communist Policies  | 0     | 8      |        | 8      |        |        |        |        |
+| Liberal Policies    | 11    | 11     | 11     | 11     | 11     | 11     | 11     | 11     |
+| Fascist Policies    | 6     | 6      | 6      | 6      | 6      | 6      | 6      | 6      |
+| Communist Policies  | 0     | 4      | 4      | 5      | 4      | 4      | 5      | 4      |
 | **Game Boards**     |       |        |        |        |        |        |        |        |
 | Liberal Board       | A     | A      | A      | A      | A      | A      | A      | A      |
-| Fascist Board       | A     | A      | A      | B      | B      | B/C    | C      | C      |
+| Fascist Board       | A     | A      | A      | B      | B      | C      | C      | C      |
 | Communist Board     | NA    | A      | A      | A      | B      | B      | B      | C      |
 
 Make sure you have the correct number of ordinary Fascists in addition to Hitler!  
@@ -125,8 +128,6 @@ The Presidential Candidate chooses a Chancellor Candidate by passing the Chancel
     > **Eligibility**
     >
     > The last elected President and Chancellor are “term-limited,” and ineligible to be nominated as Chancellor Candidate.  
-    > - Term limits apply to the President and Chancellor who were last elected, not to the last pair nominated. 
-    >
     >- Term limits only affect nominations to the Chancellorship; anyone can be President, even someone who was just Chancellor.
     >
     >- If there are only five players left in the game, only the last elected Chancellor is ineligible to be Chancellor Candidate; the last President may be nominated.
@@ -138,22 +139,22 @@ Once the Presidential Candidate has chosen an eligible Chancellor Candidate, pla
 
     - **If a majority of players votes YES**: The Presidential Candidate and Chancellor Candidate become the new President and Chancellor, respectively. 
 
-    - **If a majority of players votes NO, or it is a TIE**: The vote fails. The Presidential Candidate misses this chance to be elected. The Electition Tracker is advanced by one Election.  The election process starts again from the begining, starting with moving the President placard clockwise to the next player. 
+    - **If a majority of players votes NO, or it is a TIE**: The vote fails. The Presidential Candidate misses this chance to be elected. The Election Tracker is advanced by one Election.  The election process starts again from the beginning, starting with moving the President placard clockwise to the next player. 
 
     - **Election Tracker**: If the group rejects three governments in a row, the country is thrown into chaos. Immediately reveal the Policy on top of the Policy deck and enact it. Any power granted by this Policy is ignored, but the Election Tracker resets, and existing term-limits are forgotten. All players become eligible to hold the office of Chancellor for the next Election. If there are fewer than three tiles remaining in the Policy deck at this point, shuffle them with the Discard pile to create a new Policy deck.
 
         > Any time a new Policy tile is played face-up, the Election Tracker is reset, whether it was enacted by an elected government or enacted by the frustrated populace.
 
-    - **If three or more Fascist Policies have been enacted already**: This is referd to as the Hitler Zone. Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
+    - **If three or more Fascist Policies have been enacted already**: This is referred to as the Hitler Zone. Ask if the new Chancellor is Hitler. If so, the game is over and the Fascists win. Otherwise, other players know for sure the Chancellor is not Hitler. 
 
-4. If the election suceeded, proceed as usual to the Legislative Session.
+4. If the election succeeded, proceed as usual to the Legislative Session.
 
 ### LEGISLATIVE SESSION
 During the Legislative Session, the President and Chancellor work together to enact a new Policy in secret. 
 
 1. The President draws the top three tiles from the Policy deck, looks at them in secret, and discards one tile face down into the Discard pile. 
 
-2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track. Or if the Chansollor does not like the policy cards, and five Fashist polices have been played, may excercies Veto Power (see rules below).
+2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track. Or if the Chancellor does not like the policy cards, and five Fascist polices have been played, may exercise Veto Power (see rules below).
 
 > Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy. Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
 
@@ -163,12 +164,12 @@ During the Legislative Session, the President and Chancellor work together to en
 
 4. If there are fewer than three tiles remaining in the Policy deck at the end of a Legislative Session, shuffle them with the Discard pile to create a new Policy deck. Unused Policy tiles should never be revealed, and they should not be simply placed on top of the new Policy deck.
 
-5. If the government enacted a Fascist or Communist Policy that covered up a Presidential Power or has text on the policy  for the Chancellor. Proceed to the Executive Action.
+5. If the government enacted a policy that covered up a Presidential Power or the Policy has Article 48 privileges for the Chancellor. Proceed to the Executive Action.
 
 6. After a policy has been played and Executive Actions are complete, the round it over.  Begin a new round by initiating an Election.
 
 ### EXECUTIVE ACTION
-If the newly-enacted Fascist Policy grants a Presidential Power, the President must use it before the next round can begin. Before using a power, the President is free to discuss the issue with other players, but ultimately the President gets to decide how and when the power is used. Gameplay cannot continue until the President uses the power. Presidential Powers are used only once; they don’t stack or roll over to future turns.
+If the newly-enacted policy grants a **Presidential Power**, the President must use it before the next round can begin. Before using a power, the President is free to discuss the issue with other players, but ultimately the President gets to decide how and when the power is used. Gameplay cannot continue until the President uses the power. Presidential Powers are used only once; they don’t stack or roll over to future turns. If playing with Optional **Article 48 rules**, the Chancellor will take action as specified on the card.  Same rules apply as above, can be discussed and must be used immediately.
 
 ### VETO POWER
 The Veto Power is a special rule that comes into effect after five Fascist Policies have been enacted. For all Legislative Sessions after the fifth Fascist Policy is enacted, the Executive branch gains a permanent new ability to discard all three Policy tiles if both the Chancellor and President agree.
@@ -227,34 +228,47 @@ The communists look at another player’s party membership card. When this power
     > 1. Everyone open your eyes.
 
 2. **Smear Campaign**
-The President targets one player by saying “I formally smear [player name].” If that player is Hitler, the game ends in a Communist victory. If the player is not Hitler, they must sit out the next two election cycles. The person may talk and interact with those at the table but connot vote, or hold the office of president or chansellor, if the player smeared was supposed to be president, they are skipped. 
+The President targets one player by saying “I formally smear [player name].” If that player is Hitler, the game ends in a Communist victory. If the player is not Hitler, they must sit out the next two election cycles. The person may talk and interact with those at the table but cannot vote, or hold the office of president or chancellor, if the player smeared was supposed to be president, they are skipped. 
 
 ## Optional Rules
 Rules that can be added to spice things up. Play a few rounds of SHRDE to get the core gameplay before using optional rules. 
 
-### Article 48 Powers
-New one time use powers granted to the chancellor during a legislative session. Powers will be written on Fashist or Communist policy cards and activated as these policies are placed on their respective game board. 
-
-1, Communist. Investigate party loyalty. 
-2. Communist. Convert player to Communism. 
-3. Communist. Resurect deceased player as a communist. 
-
-> add table that shows recomended mix of policy cards. 
-
 ### Secret Roles
 The core gameplay of SHRDE only has one role, Secret Hitler. 
 
-1. Hitler - Included in every game of SHRDE.  If assasinated, liberals win. if voted in as chancellor while in Hitler Zone, Faschists win. If the succesful target of a smear campaign, Communists win. Cannont be converted to Communism. 
+1. Hitler - Included in every game of SHRDE.  If assassinated, liberals win. if voted in as chancellor while in Hitler Zone, Fascists win. If the successful target of a smear campaign, Communists win. Cannot be converted to Communism. 
 
-1. Anarchist - if this role is assasinated they pick one other player to assasinate before leaving the game. 
+2. Anarchist - If this role is assassinated they pick one other player to assassinate before leaving the game. 
 
-2. Staunch Liberal. cannot be converted to Communisim. 
+3. Capitalist (Staunch Liberal). cannot be converted to Communism. 
 
-3. Tough Bastar - If assassinated will be excluded from two Election cycles, returning at the beginig of the third Election.
+4. Monarchist (Tough Bastard) - If assassinated will be excluded from two Election cycles, returning at the beginning of the third Election.
 
-> add table that shows recomended mix of role cards. 
+5. KGB (historically OGPU, but not as well known) - Knows Hitler from the start of the game. If declared as an assassination target, flip over the KGB secret role card and avoid the attempt.  In exchange, KGB must offer up two individuals, one of them is Hitler but will not say which one is.  Indicate the suspects by pointing at two players and stating "One of these two individuals is Hitler".
 
+> Secret Roles make things more interesting. Here are some recommendations, but feel free to mix it up as you see fit.
 
+| **# Players**        | 5     | 6      | 7      | 8      | 9      | 10     | 11     | 12     |
+|-------------------   |------ |--------|--------|--------|--------|--------|--------|--------|
+| **Secret Roles**     |       |        |        |        |        |        |        |        |
+| Civilian             | 4     | 4      | 5      | 5      | 5      | 5      | 6      | 7     |
+| Hitler               | 1     | 1      | 1      | 1      | 1      | 1      | 1      | 1      |
+| Monarchist           | 0     | 1      | 1      | 1      | 1      | 1      | 1      | 1      |
+| Capitalist           | 0     | 0      | 0      | 1      | 1      | 1      | 1      | 1      |
+| Anarchist            | 0     | 0      | 0      | 0      | 1      | 1      | 1      | 1      |
+| KGB                  | 0     | 0      | 0      | 0      | 0      | 1      | 1      | 1      |
+
+### Article 48 Powers
+New one time use powers granted to the chancellor during a legislative session. Powers will be written on Fascist or Communist policy cards and activated as these policies are placed on their respective game board. 
+
+1. Communist/Fascist. Investigate party loyalty. 
+2. Communist. Convert player to Communism. 
+3. Communist. Resurrect deceased player as a communist. 
+4. Communist. Learn who other party members are.
+
+> Have fun experimenting with a mix of Article 48 policies, to get you started here is a mix we found fun:
+> - 6 or less players, add a 2 Communist and 1 Fascist Article 48 cards.  
+> - 7 or more players, add 3 Communist and 2 Fascist Article 48 cards.
 
 ## CREDITS & LICENSE
 See LICENSE in GitHub: 
