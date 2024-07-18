@@ -14,6 +14,11 @@ This is a standalone game that tightens up elements of the expansions and adds a
 8. As player counts increase, presidential should increase. lots of goodness to go around.  
 9. Game balancing should focus on good gameplay and less on mechanics that extend the game.
 
+## Notable Changes from Previous Designs
+1. The term Party or Team are used synonymously in the rules and cards.
+1. To make secret roles more notable and facilitate party switching mechanics, the default or generic role will be Civilian.
+2. Article 48 powers are played by the Chancellor. These are granted by the President but only played by the Chancellor.
+
 
 ## Convert Docs to PDF
 Docs are in markdown and converted to PDF, not the prettiest but much easier to collaborate on, update, and see change in git.
@@ -32,3 +37,4 @@ pandoc Secret_Hitler_Red_Dawn_Rules.md -o Secret_Hitler_Red_Dawn_Rules.pdf --var
 
 ## Other Tools
 - Investigate this for card layout: https://www.dextrous.com.au/
+

@@ -41,8 +41,9 @@ OR
 - 11 Liberal Policy tiles
 - 6 Fascist Policy tiles
 - 6 Communist Policy tiles
+- 6 Special Policy tiles
 - 12 Party Membership cards
-- 12 Secret Roles Cards
+- 16 Secret Roles Cards
 - 12 Card envelopes
 - 12 Ja! Ballot cards
 - 12 Nein Ballot cards
@@ -92,7 +93,7 @@ Once each player has been dealt an envelope, all players should examine their Se
 **For games of 5-7 players**, give the following directions to all players:
 1. Everybody close your eyes.
 1. Fascist and Hitler, open your eyes and acknowledge each other.   
-[Take a long pause]
+1. [Take a long pause]
 1. Everyone close your eyes.
 1. Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
@@ -101,7 +102,7 @@ Once each player has been dealt an envelope, all players should examine their Se
 1. All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
 1. Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
 1. Fascists, take note of who has an extended thumb - that player is Hitler.  
-[Take a long pause]
+1. [Take a long pause]  
 1. Everyone close your eyes and put your hands down.
 1. Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
@@ -110,7 +111,7 @@ Once each player has been dealt an envelope, all players should examine their Se
 1. All Fascists who are NOT Hitler should open their eyes and acknowledge each other. 
 1. Hitler - keep your eyes closed but put your thumb out into a thumbs-up gesture.
 1. Fascists, take note of who has an extended thumb - that player is Hitler.  
-[Take a long pause]
+1. [Take a long pause]
 1. Everyone close your eyes and put your hands down.
 1. Everyone can open your eyes. If anyone is confused or something went wrong, please tell the group now.  
 
@@ -156,11 +157,11 @@ During the Legislative Session, the President and Chancellor work together to en
 
 2. The remaining two tiles go to the Chancellor, who looks in secret, discards one Policy tile face down, and enacts the remaining Policy by placing the tile face up on the corresponding track. Or if the Chancellor does not like the policy cards, and five Fascist polices have been played, may exercise Veto Power (see rules below).
 
-> Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy. Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
+    > Verbal and nonverbal communication between the President and Chancellor is forbidden. The President and Chancellor MAY NOT pick Policies to play at random, shuffle the tiles before discarding one, or do anything else clever to avoid secretly and intentionally selecting a Policy. Additionally, the President should hand both Policies over at the same time, rather than one at a time to gauge the Chancellor’s reaction. Attempting to telegraph the contents of your hand using randomness or any other unusual selection procedure violates the spirit of the game. Don’t do it.
 
 3. Discarded Policy tiles should never be revealed to the group. Players must rely on the word of the President and Chancellor, who are free to lie.
 
-> ABOUT LYING: Often, some players learn things that the rest of the players don’t know, like when the President and Chancellor get to see Policy tiles, or when a President uses the Investigate power to see someone’s Party Membership card. You can always lie about hidden knowledge in Secret Hitler. The only time players MUST tell the truth is in game-ending, Hitler-related scenarios: a player who is Hitler must say so if assassinated or if elected Chancellor after three Fascist Policies have been enacted.  
+    > ABOUT LYING: Often, some players learn things that the rest of the players don’t know, like when the President and Chancellor get to see Policy tiles, or when a President uses the Investigate power to see someone’s Party Membership card. You can always lie about hidden knowledge in Secret Hitler. The only time players MUST tell the truth is in game-ending, Hitler-related scenarios: a player who is Hitler must say so if assassinated or if elected Chancellor after three Fascist Policies have been enacted.  
 
 4. If there are fewer than three tiles remaining in the Policy deck at the end of a Legislative Session, shuffle them with the Discard pile to create a new Policy deck. Unused Policy tiles should never be revealed, and they should not be simply placed on top of the new Policy deck.
 
@@ -196,38 +197,62 @@ This section explains in more details the presidential powers granted by passing
 
 ### FASCIST PRESIDENTIAL POWERS
 
-1.	**Investigate Loyalty** 
+1. <img src="./doc-pics/investigate-loyalty.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Investigate Loyalty**   
 The President chooses a player to investigate. Investigated players should hand their Party Membership card (not Secret Role card!) to the President, who checks the player’s loyalty in secret and then returns the card to the player. The President may share (or lie about!) the results of their investigation at their discretion. No player may be investigated twice in the same game.
 
-2.	**Call Special Election**
+1. <img src="./doc-pics/special-election.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Call Special Election**   
 The President chooses any other player at the table to be the next Presidential Candidate by passing that player the President placard. Any player can become President—even players that are term-limited. The new President nominates an eligible player as Chancellor Candidate and the Election proceeds as usual.
 
     - A Special Election does not skip any players. After a Special Election, the President placard returns to the left of the President who enacted the Special Election. 
     
     - If the President passes the presidency to the next player in the rotation, that player would get to run for President twice in a row: once for the Special Election and once for their normal shift in the Presidential rotation.
     
-
-3.	**Policy Peek**
+1. <img src="./doc-pics/policy-peek.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Policy Peek**  
 The President secretly looks at the top three tiles in the Policy deck and then returns them to the top of the deck without changing the order.
 
-4.	**Execution**
+1. <img src="./doc-pics/execution.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Execution**   
 The President executes one player at the table by saying “I formally execute [player name].” If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table should not learn whether a Fascist or a Liberal has been killed; players must try to work out for themselves the new table balance. Executed players are removed from the game and may not speak, vote, or run for office.
 
 ### COMMUNIST PRESIDENTIAL POWERS
 
-1.	**Bugging**
-The communists look at another player’s party membership card. When this power is activated, give the following instructions:
+1. <img src="./doc-pics/bugging.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Bugging**   
+The communists look at another player’s party membership card. When this power is activated, give the following instructions: 
+    1. Everyone take out your Party membership card and place it face down in front of you.
+    1. Everyone close your eyes
+    1. Communists open your eyes
+    1. You must look at one players party membership card together.  
+    1. [Take a long pause]
+    1. Communists close your eyes
+    1. Everyone open your eyes.  
 
-    > 1. Everyone take out your Party membership card and place it face down in front of you.
-    > 1. Everyone close your eyes
-    > 1. Communists open your eyes
-    > 1. You must look at one players party membership card together.  
-    > [Take a long pause]
-    > 1. Communists close your eyes
-    > 1. Everyone reach out and move your card around slightly
-    > 1. Everyone open your eyes.
+1. <img src="./doc-pics/confession.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Confession**   
+The sitting president must reveal their party membership card to the everyone.
 
-2. **Smear Campaign**
+1. <img src="./doc-pics/congress.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Secret Congress**   
+Communists have a secret session to learn each others identities. When this power is activated, give the following instructions:
+
+    1. Everyone close your eyes.
+    1. Communists open your eyes.
+    1. Communists recognize each other.
+    1. Communists close your eyes.
+    1. Everyone open your eyes.
+
+1. <img src="./doc-pics/five-year-plan.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Five Year Plan**   
+Add two Communist policies and one Liberal policy to the draw deck. Then shuffle the draw deck
+
+1. <img src="./doc-pics/recruitment.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Recruitment**   
+The communists turn another player into a communist by switching their party membership card with a communist one. When this power is activated, give the following instructions:
+    1. Everyone take out your Party membership card and place it face down in front of you.
+    1. Everyone close your eyes. 
+    1. Communists open your eyes.
+    1. You must swop a player’s party membership card with a communist one. Place
+their old party membership card in the centre of the table.
+    1. [Take a long pause]
+    1. Communists close your eyes
+    1. Everyone open your eyes.
+    1. Everyone check to see if your Party membership card has been swopped. If it has you are now a Communist, unless you have a secret role card (Hitler or Capitalist) that prohibits this action. In that case you are still part of your original party and the Communists will not know the recruitment was unsuccessful.
+
+1. <img src="./doc-pics/smear-campaign.png" width="30" style="vertical-align: middle; margin-right: 10px;"> **Smear Campaign**   
 The President targets one player by saying “I formally smear [player name].” If that player is Hitler, the game ends in a Communist victory. If the player is not Hitler, they must sit out the next two election cycles. The person may talk and interact with those at the table but cannot vote, or hold the office of president or chancellor, if the player smeared was supposed to be president, they are skipped. 
 
 ## Optional Rules
@@ -244,7 +269,7 @@ The core gameplay of SHRDE only has one role, Secret Hitler.
 
 4. Monarchist (Tough Bastard) - If assassinated will be excluded from two Election cycles, returning at the beginning of the third Election.
 
-5. KGB (historically OGPU, but not as well known) - Knows Hitler from the start of the game. If declared as an assassination target, flip over the KGB secret role card and avoid the attempt.  In exchange, KGB must offer up two individuals, one of them is Hitler but will not say which one is.  Indicate the suspects by pointing at two players and stating "One of these two individuals is Hitler".
+5. KGB (historically OGPU, but not as well known) - Knows Hitler from the start of the game. If declared as an assassination target, flip over the KGB secret role card and avoid the assassination attempt.  In exchange, KGB must offer up two individuals, one of them is Hitler but will not say which one is.  Indicate the suspects by pointing at two players and stating "One of these two individuals is Hitler".
 
 > Secret Roles make things more interesting. Here are some recommendations, but feel free to mix it up as you see fit.
 
@@ -273,10 +298,3 @@ New one time use powers granted to the chancellor during a legislative session. 
 ## CREDITS & LICENSE
 See LICENSE in GitHub: 
 https://github.com/iFreeon/secret-hitler-red-dawn-expansion/blob/main/LICENSE
-
-## TODO
-WIP items, that need some love.  
-1. Explain what happens if Hitler is converted to Communism.  It will not work.. but the Communists don't know that.
-2. Update presidential powers.
-3. Work on policy mix.
-
