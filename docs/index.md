@@ -1,8 +1,3 @@
----
-title: "My Markdown Site"
----
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 # Secret Hitler Red Dawn Edition
 
 CAN YOU FIND AND STOP THE...  
