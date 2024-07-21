@@ -1,0 +1,3 @@
+.Header, .Header-Menu, .Header-Menu-item, .Header-Menu-link, .Header-link {
+  display: none !important;
+}

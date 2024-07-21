@@ -1,8 +1,13 @@
+---
+title: "My Markdown Site"
+---
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 # Secret Hitler Red Dawn Edition
 
 CAN YOU FIND AND STOP THE...  
-![Secret Hitler](./doc-pics/title.png)  
-![Red Dawn Edition](./doc-pics/sub-title.png)  
+![Secret Hitler](./images/title.png)  
+![Red Dawn Edition](./images/sub-title.png)  
 
 Version 1.0.1  
 
@@ -197,25 +202,25 @@ This section explains in more details the presidential powers granted by passing
 
 ### FASCIST PRESIDENTIAL POWERS
 
-1. <img src="./doc-pics/investigate-loyalty.png" valign="middle" width="40"> **Investigate Loyalty**   
+1. <img src="./images/investigate-loyalty.png" valign="middle" width="40"> **Investigate Loyalty**   
 The President chooses a player to investigate. Investigated players should hand their Party Membership card (not Secret Role card!) to the President, who checks the player’s loyalty in secret and then returns the card to the player. The President may share (or lie about!) the results of their investigation at their discretion. No player may be investigated twice in the same game.
 
-1. <img src="./doc-pics/special-election.png" valign="middle" width="40"> **Call Special Election**   
+1. <img src="./images/special-election.png" valign="middle" width="40"> **Call Special Election**   
 The President chooses any other player at the table to be the next Presidential Candidate by passing that player the President placard. Any player can become President—even players that are term-limited. The new President nominates an eligible player as Chancellor Candidate and the Election proceeds as usual.
 
     - A Special Election does not skip any players. After a Special Election, the President placard returns to the left of the President who enacted the Special Election. 
     
     - If the President passes the presidency to the next player in the rotation, that player would get to run for President twice in a row: once for the Special Election and once for their normal shift in the Presidential rotation.
     
-1. <img src="./doc-pics/policy-peek.png" valign="middle" width="40"> **Policy Peek**  
+1. <img src="./images/policy-peek.png" valign="middle" width="40"> **Policy Peek**  
 The President secretly looks at the top three tiles in the Policy deck and then returns them to the top of the deck without changing the order.
 
-1. <img src="./doc-pics/execution.png" valign="middle" width="40"> **Execution**   
+1. <img src="./images/execution.png" valign="middle" width="40"> **Execution**   
 The President executes one player at the table by saying “I formally execute [player name].” If that player is Hitler, the game ends in a Liberal victory. If the executed player is not Hitler, the table should not learn whether a Fascist or a Liberal has been killed; players must try to work out for themselves the new table balance. Executed players are removed from the game and may not speak, vote, or run for office.
 
 ### COMMUNIST PRESIDENTIAL POWERS
 
-1. <img src="./doc-pics/bugging.png" valign="middle" width="40"> **Bugging**   
+1. <img src="./images/bugging.png" valign="middle" width="40"> **Bugging**   
 The communists look at another player’s party membership card. When this power is activated, give the following instructions: 
     1. Everyone take out your Party membership card and place it face down in front of you.
     1. Everyone close your eyes
@@ -225,10 +230,10 @@ The communists look at another player’s party membership card. When this power
     1. Communists close your eyes
     1. Everyone open your eyes.  
 
-1. <img src="./doc-pics/confession.png" valign="middle" width="40"> **Confession**   
+1. <img src="./images/confession.png" valign="middle" width="40"> **Confession**   
 The sitting president must reveal their party membership card to the everyone.
 
-1. <img src="./doc-pics/congress.png" valign="middle" width="40"> **Secret Congress**   
+1. <img src="./images/congress.png" valign="middle" width="40"> **Secret Congress**   
 Communists have a secret session to learn each others identities. When this power is activated, give the following instructions:
 
     1. Everyone close your eyes.
@@ -237,10 +242,10 @@ Communists have a secret session to learn each others identities. When this powe
     1. Communists close your eyes.
     1. Everyone open your eyes.
 
-1. <img src="./doc-pics/five-year-plan.png" valign="middle" width="40"> **Five Year Plan**   
+1. <img src="./images/five-year-plan.png" valign="middle" width="40"> **Five Year Plan**   
 Add two Communist policies and one Liberal policy to the draw deck. Then shuffle the draw deck
 
-1. <img src="./doc-pics/recruitment.png" valign="middle" width="40"> **Recruitment**   
+1. <img src="./images/recruitment.png" valign="middle" width="40"> **Recruitment**   
 The communists turn another player into a communist by switching their party membership card with a communist one. When this power is activated, give the following instructions:
     1. Everyone take out your Party membership card and place it face down in front of you.
     1. Everyone close your eyes. 
@@ -252,7 +257,7 @@ their old party membership card in the centre of the table.
     1. Everyone open your eyes.
     1. Everyone check to see if your Party membership card has been swopped. If it has you are now a Communist, unless you have a secret role card (Hitler or Capitalist) that prohibits this action. In that case you are still part of your original party and the Communists will not know the recruitment was unsuccessful.
 
-1. <img src="./doc-pics/smear-campaign.png" valign="middle" width="40"> **Smear Campaign**   
+1. <img src="./images/smear-campaign.png" valign="middle" width="40"> **Smear Campaign**   
 The President targets one player by saying “I formally smear [player name].” If that player is Hitler, the game ends in a Communist victory. If the player is not Hitler, they must sit out the next two election cycles. The person may talk and interact with those at the table but cannot vote, or hold the office of president or chancellor, if the player smeared was supposed to be president, they are skipped. 
 
 ## Optional Rules
