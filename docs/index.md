@@ -41,9 +41,11 @@ OR
 - 11 Liberal Policy tiles
 - 6 Fascist Policy tiles
 - 6 Communist Policy tiles
-- 6 Special Policy tiles
+- 6 Article 48 Policy tiles (optional)
 - 12 Party Membership cards
-- 16 Secret Roles Cards
+- 11 Civilian Secret Roles Cards
+- 1 Hitler Secret Role Card
+- 4 * 1 (Anarchist/Capitalist/Monarchist/KGB) Secret Roles Cards (Optional)
 - 12 Card envelopes
 - 12 Ja! Ballot cards
 - 12 Nein Ballot cards
