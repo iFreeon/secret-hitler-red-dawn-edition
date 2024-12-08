@@ -15,14 +15,14 @@ This is a standalone game that tightens up elements of the expansions and adds a
 9. Game balancing should focus on good gameplay and less on mechanics that extend the game.
 
 ### Notable Changes from Previous Designs
-1. The term Party or Team are used synonymously in the rules and cards.
+1. The term Identity or Team is replaced with Party, represented by a players Party Loyalty Card.
 2. Secret roles are not always affiliated with a Party Membership. To make secret roles more notable and facilitate party switching mechanics, the default or generic role will be Civilian.
 3. Article 48 powers are played by the Chancellor. These are granted by the President but only played by the Chancellor.
 
 ## 2. Print & Play
 The nice print & play PDF is available yet, but assets can be assembled from other versions to play.
 
-- [List of everyting you need](https://ifreeon.github.io/secret-hitler-red-dawn-edition/#game-contents)
+- [List of everything you need](https://ifreeon.github.io/secret-hitler-red-dawn-edition/#game-contents)
 - Game Boards
   - [Print the blank boards](https://github.com/iFreeon/secret-hitler-red-dawn-edition/blob/main/print/board-150-Blank.png)
   - [Game Board Design](https://github.com/iFreeon/secret-hitler-red-dawn-edition/blob/main/game-board-design.md)

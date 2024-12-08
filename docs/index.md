@@ -19,7 +19,7 @@ Hitler plays for the Fascist team, and the Fascists know Hitler’s identity fro
 
 Whenever a subversive (Fascist or Communist) party policy is enacted, the government becomes more powerful, and the **President is granted a single-use power** which must be used before the next round can begin. It doesn’t matter what team the President is on; in fact, even Liberal players might be tempted to enact a Fascist or Communist Policy to gain new powers. 
 
-## OBJECT
+## OBJECTIVE
 Every player has a secret identity as a member of either the Liberal, Fascist or Communist team. 
 
 Players on the ***Liberal team win*** if either:  
@@ -199,7 +199,7 @@ This section explains in more details the presidential powers granted by passing
 
 ### FASCIST PRESIDENTIAL POWERS
 
-1. <img src="./images/investigate-loyalty.png" valign="middle" width="40"> **Investigate Loyalty**   
+1. <img src="./images/investigate-loyalty.png" valign="middle" width="40"> **Investigate Party Loyalty**   
 The President chooses a player to investigate. Investigated players should hand their Party Membership card (not Secret Role card!) to the President, who checks the player’s loyalty in secret and then returns the card to the player. The President may share (or lie about!) the results of their investigation at their discretion. No player may be investigated twice in the same game.
 
 1. <img src="./images/special-election.png" valign="middle" width="40"> **Call Special Election**   
